@@ -13,7 +13,7 @@
 ```console
 
 # clone o repositório
-$ git clone https://github.com/muradpontes/aquarelaERP.git
+$ git clone https://github.com/ohhhio/aquarelaERP.git
 
 # mude para a pasta do ERP
 $ cd aquarelaERP
